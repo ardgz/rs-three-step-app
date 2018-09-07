@@ -1,0 +1,32 @@
+.product-row {
+  margin: 0 auto;
+  width: 100rem;
+}
+
+.header-row {
+  font-weight: bold;
+  color: black !important;
+}
+
+.product {
+  padding: 1.5rem 3rem;
+  display: inline-block;
+}
+
+.product-label {
+  width: 50rem;
+  color: red;
+}
+
+.product-cost,
+.product-total {
+  width: 10rem;
+}
+
+.product-quantity-input {
+  width: 11rem;
+}
+
+.product-quantity-input input {
+  width: 3rem;
+}
